@@ -266,7 +266,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [Chronopin](https://chronopin.com) - Track the release dates of your favorite games and interests. Also share, review, and comment on your posts with a like-minded community.
 * [Contractify](https://contractify.io) - Contract management software for e-signing, managing and automating all your contracts online
 * [Tulsk](https://tulsk.io) - AI-powered project management tool designed to simplify your workflow.
-* [WebResearcherJS](https://github.com/kvgc/WebResearcherJS-extension) -  Firefox extension which allows users to take notes on webpages
+* [WebResearcherJS](https://github.com/kvgc/WebResearcherJS-extension) - Firefox extension which allows users to take notes on webpages.
+* [T-Notes](https://notes.tcode.xin) - A modern platform integrating note-taking, cloud storage, and AI-powered productivity tools, designed to help users organize information, store files, and enhance workflow efficiency with AI assistance.
 
 ### Open source projects
 
